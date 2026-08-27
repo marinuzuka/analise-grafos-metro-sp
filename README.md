@@ -62,6 +62,24 @@ O Python e a biblioteca NetworkX foram utilizados na construção e modelagem do
 Este projeto foi desenvolvido em equipe. Minha participação envolveu a elaboração do projeto e a modelagem da rede em grafos, incluindo a construção dos grafos referentes aos períodos de **1974, 1979 e 1994–1996** e sua exportação para o Gephi.
 Também participei parcialmente da validação dos dados utilizados e da escrita e formatação do artigo.
 
+## Arquivos GEXF
+
+Os arquivos .gexf contêm os grafos utilizados no Gephi para os períodos trabalhados neste repositório.
+
+## Resultados
+
+A análise do projeto completo identificou um crescimento significativo da rede ao longo dos períodos estudados, acompanhado pela preservação de sua conectividade estrutural.
+Entre 1974 e 2026, o número de vértices aumentou de 7 para 181 e o número de arestas de 6 para 194. A rede também passou a apresentar um número crescente de ciclos, associado ao aumento das integrações e à criação de caminhos alternativos.
+Nos períodos de 1974 e 1979, a rede não apresentava ciclos. No período de 1994–1996, foram identificados 7 ciclos, evidenciando uma maior complexidade estrutural em relação aos períodos iniciais.
+
+## Contexto Acadêmico
+
+Projeto desenvolvido no contexto da graduação em Ciência e Tecnologia na Universidade Federal do ABC (UFABC), aplicando conceitos de Teoria dos Grafos à análise de uma rede de transporte urbano.
+
+## Observação
+
+Este repositório apresenta a parte do projeto correspondente aos grafos desenvolvidos pela autora. O trabalho original foi realizado de forma colaborativa, com diferentes integrantes responsáveis pela coleta e validação de dados, modelagem, análise dos grafos, metodologia e elaboração do artigo.
+
 ## Estrutura do repositório
 
 ```text
