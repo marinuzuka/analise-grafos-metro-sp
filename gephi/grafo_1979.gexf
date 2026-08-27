@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-14">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="linha" type="string" />
+      <attribute id="1" title="periodo" type="long" />
+      <attribute id="2" title="tipo" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Jabaquara" label="Jabaquara">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="1" value="1979" />
+          <attvalue for="2" value="Estação" />
+        </attvalues>
+      </node>
+      <node id="Conceição" label="Conceição">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="1" value="1979" />
+          <attvalue for="2" value="Estação" />
+        </attvalues>
+      </node>
+      <node id="São Judas" label="São Judas">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="1" value="1979" />
+          <attvalue for="2" value="Estação" />
+        </attvalues>
+      </node>
+      <node id="Saúde" label="Saúde">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="1" value="1979" />
+          <attvalue for="2" value="Estação" />
+        </attvalues>
+      </node>
+      <node id="Praça da Árvore" label="Praça da Árvore">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="1" value="1979" />
+          <attvalue for="2" value="Estação" />
+        </attvalues>
+      </node>
+      <node id="Santa Cruz" label="Santa Cruz">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="1" value="1979" />
+          <attvalue for="2" value="Estação" />
+        </attvalues>
+      </node>
+      <node id="Vila Mariana" label="Vila Mariana">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="1" value="1979" />
+          <attvalue for="2" value="Estação" />
+        </attvalues>
+      </node>
+      <node id="Ana Rosa" label="Ana Rosa" />
+      <node id="Paraíso" label="Paraíso" />
+      <node id="Vergueiro" label="Vergueiro" />
+      <node id="São Joaquim" label="São Joaquim" />
+      <node id="Liberdade" label="Liberdade" />
+      <node id="Sé" label="Sé" />
+      <node id="São Bento" label="São Bento" />
+      <node id="Luz" label="Luz" />
+      <node id="Tiradentes" label="Tiradentes" />
+      <node id="Armênia" label="Armênia" />
+      <node id="Portuguesa-Tietê" label="Portuguesa-Tietê" />
+      <node id="Santana" label="Santana" />
+      <node id="Brás" label="Brás" />
+    </nodes>
+    <edges>
+      <edge source="Jabaquara" target="Conceição" id="0" />
+      <edge source="Conceição" target="São Judas" id="1" />
+      <edge source="São Judas" target="Saúde" id="2" />
+      <edge source="Saúde" target="Praça da Árvore" id="3" />
+      <edge source="Praça da Árvore" target="Santa Cruz" id="4" />
+      <edge source="Santa Cruz" target="Vila Mariana" id="5" />
+      <edge source="Vila Mariana" target="Ana Rosa" id="6" />
+      <edge source="Ana Rosa" target="Paraíso" id="7" />
+      <edge source="Paraíso" target="Vergueiro" id="8" />
+      <edge source="Vergueiro" target="São Joaquim" id="9" />
+      <edge source="São Joaquim" target="Liberdade" id="10" />
+      <edge source="Liberdade" target="Sé" id="11" />
+      <edge source="Sé" target="São Bento" id="12" />
+      <edge source="Sé" target="Brás" id="13" />
+      <edge source="São Bento" target="Luz" id="14" />
+      <edge source="Luz" target="Tiradentes" id="15" />
+      <edge source="Tiradentes" target="Armênia" id="16" />
+      <edge source="Armênia" target="Portuguesa-Tietê" id="17" />
+      <edge source="Portuguesa-Tietê" target="Santana" id="18" />
+    </edges>
+  </graph>
+</gexf>

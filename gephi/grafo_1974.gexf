@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-14">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Jabaquara" label="Jabaquara" />
+      <node id="Conceição" label="Conceição" />
+      <node id="São Judas" label="São Judas" />
+      <node id="Saúde" label="Saúde" />
+      <node id="Praça da Árvore" label="Praça da Árvore" />
+      <node id="Santa Cruz" label="Santa Cruz" />
+      <node id="Vila Mariana" label="Vila Mariana" />
+    </nodes>
+    <edges>
+      <edge source="Jabaquara" target="Conceição" id="0" />
+      <edge source="Conceição" target="São Judas" id="1" />
+      <edge source="São Judas" target="Saúde" id="2" />
+      <edge source="Saúde" target="Praça da Árvore" id="3" />
+      <edge source="Praça da Árvore" target="Santa Cruz" id="4" />
+      <edge source="Santa Cruz" target="Vila Mariana" id="5" />
+    </edges>
+  </graph>
+</gexf>

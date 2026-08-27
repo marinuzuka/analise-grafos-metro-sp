@@ -1,0 +1,1113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-14">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="linha" type="string" />
+      <attribute id="1" title="periodo" type="long" />
+      <attribute id="2" title="tipo" type="string" />
+      <attribute id="3" title="cor" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Jabaquara" label="Jabaquara">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Conceição" label="Conceição">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="São Judas" label="São Judas">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Saúde" label="Saúde">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Praça da Árvore" label="Praça da Árvore">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Santa Cruz" label="Santa Cruz">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Vila Mariana" label="Vila Mariana">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Ana Rosa" label="Ana Rosa">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Paraíso" label="Paraíso">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Vergueiro" label="Vergueiro">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="São Joaquim" label="São Joaquim">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Liberdade" label="Liberdade">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Sé" label="Sé">
+        <attvalues>
+          <attvalue for="0" value="Vermelha" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#EE3124" />
+        </attvalues>
+      </node>
+      <node id="São Bento" label="São Bento">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Luz" label="Luz">
+        <attvalues>
+          <attvalue for="0" value="Coral" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#F05A28" />
+        </attvalues>
+      </node>
+      <node id="Tiradentes" label="Tiradentes">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Armênia" label="Armênia">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Portuguesa-Tietê" label="Portuguesa-Tietê">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Santana" label="Santana">
+        <attvalues>
+          <attvalue for="0" value="Azul" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0455A4" />
+        </attvalues>
+      </node>
+      <node id="Brás" label="Brás">
+        <attvalues>
+          <attvalue for="0" value="Safira" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0072BC" />
+        </attvalues>
+      </node>
+      <node id="Brigadeiro" label="Brigadeiro">
+        <attvalues>
+          <attvalue for="0" value="Verde" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#008061" />
+        </attvalues>
+      </node>
+      <node id="Trianon-Masp" label="Trianon-Masp">
+        <attvalues>
+          <attvalue for="0" value="Verde" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#008061" />
+        </attvalues>
+      </node>
+      <node id="Consolação" label="Consolação">
+        <attvalues>
+          <attvalue for="0" value="Verde" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#008061" />
+        </attvalues>
+      </node>
+      <node id="Clínicas" label="Clínicas">
+        <attvalues>
+          <attvalue for="0" value="Verde" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#008061" />
+        </attvalues>
+      </node>
+      <node id="Barra Funda" label="Barra Funda">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Marechal Deodoro" label="Marechal Deodoro">
+        <attvalues>
+          <attvalue for="0" value="Vermelha" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#EE3124" />
+        </attvalues>
+      </node>
+      <node id="Santa Cecília" label="Santa Cecília">
+        <attvalues>
+          <attvalue for="0" value="Vermelha" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#EE3124" />
+        </attvalues>
+      </node>
+      <node id="República" label="República">
+        <attvalues>
+          <attvalue for="0" value="Vermelha" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#EE3124" />
+        </attvalues>
+      </node>
+      <node id="Anhangabaú" label="Anhangabaú">
+        <attvalues>
+          <attvalue for="0" value="Vermelha" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#EE3124" />
+        </attvalues>
+      </node>
+      <node id="Pedro II" label="Pedro II">
+        <attvalues>
+          <attvalue for="0" value="Vermelha" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#EE3124" />
+        </attvalues>
+      </node>
+      <node id="Bresser" label="Bresser">
+        <attvalues>
+          <attvalue for="0" value="Vermelha" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#EE3124" />
+        </attvalues>
+      </node>
+      <node id="Belém" label="Belém">
+        <attvalues>
+          <attvalue for="0" value="Vermelha" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#EE3124" />
+        </attvalues>
+      </node>
+      <node id="Tatuapé" label="Tatuapé">
+        <attvalues>
+          <attvalue for="0" value="Safira" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0072BC" />
+        </attvalues>
+      </node>
+      <node id="Carrão" label="Carrão">
+        <attvalues>
+          <attvalue for="0" value="Vermelha" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#EE3124" />
+        </attvalues>
+      </node>
+      <node id="Penha" label="Penha">
+        <attvalues>
+          <attvalue for="0" value="Vermelha" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#EE3124" />
+        </attvalues>
+      </node>
+      <node id="Vila Matilde" label="Vila Matilde">
+        <attvalues>
+          <attvalue for="0" value="Vermelha" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#EE3124" />
+        </attvalues>
+      </node>
+      <node id="Guilhermina-Esperança" label="Guilhermina-Esperança">
+        <attvalues>
+          <attvalue for="0" value="Vermelha" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#EE3124" />
+        </attvalues>
+      </node>
+      <node id="Patriarca" label="Patriarca">
+        <attvalues>
+          <attvalue for="0" value="Vermelha" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#EE3124" />
+        </attvalues>
+      </node>
+      <node id="Artur Alvim" label="Artur Alvim">
+        <attvalues>
+          <attvalue for="0" value="Coral" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#F05A28" />
+        </attvalues>
+      </node>
+      <node id="Itaquera" label="Itaquera">
+        <attvalues>
+          <attvalue for="0" value="Coral" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#F05A28" />
+        </attvalues>
+      </node>
+      <node id="Água Branca" label="Água Branca">
+        <attvalues>
+          <attvalue for="0" value="Rubi" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#CA8D00" />
+        </attvalues>
+      </node>
+      <node id="Lapa" label="Lapa">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Piqueri" label="Piqueri">
+        <attvalues>
+          <attvalue for="0" value="Rubi" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#CA8D00" />
+        </attvalues>
+      </node>
+      <node id="Pirituba" label="Pirituba">
+        <attvalues>
+          <attvalue for="0" value="Rubi" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#CA8D00" />
+        </attvalues>
+      </node>
+      <node id="Vila Clarice" label="Vila Clarice">
+        <attvalues>
+          <attvalue for="0" value="Rubi" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#CA8D00" />
+        </attvalues>
+      </node>
+      <node id="Jaraguá" label="Jaraguá">
+        <attvalues>
+          <attvalue for="0" value="Rubi" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#CA8D00" />
+        </attvalues>
+      </node>
+      <node id="Perus" label="Perus">
+        <attvalues>
+          <attvalue for="0" value="Rubi" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#CA8D00" />
+        </attvalues>
+      </node>
+      <node id="Caieiras" label="Caieiras">
+        <attvalues>
+          <attvalue for="0" value="Rubi" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#CA8D00" />
+        </attvalues>
+      </node>
+      <node id="Franco da Rocha" label="Franco da Rocha">
+        <attvalues>
+          <attvalue for="0" value="Rubi" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#CA8D00" />
+        </attvalues>
+      </node>
+      <node id="Baltazar Fidélis" label="Baltazar Fidélis">
+        <attvalues>
+          <attvalue for="0" value="Rubi" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#CA8D00" />
+        </attvalues>
+      </node>
+      <node id="Francisco Morato" label="Francisco Morato">
+        <attvalues>
+          <attvalue for="0" value="Rubi" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#CA8D00" />
+        </attvalues>
+      </node>
+      <node id="Botujuru" label="Botujuru">
+        <attvalues>
+          <attvalue for="0" value="Rubi" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#CA8D00" />
+        </attvalues>
+      </node>
+      <node id="Campo Limpo Paulista" label="Campo Limpo Paulista">
+        <attvalues>
+          <attvalue for="0" value="Rubi" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#CA8D00" />
+        </attvalues>
+      </node>
+      <node id="Várzea Paulista" label="Várzea Paulista">
+        <attvalues>
+          <attvalue for="0" value="Rubi" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#CA8D00" />
+        </attvalues>
+      </node>
+      <node id="Jundiaí" label="Jundiaí">
+        <attvalues>
+          <attvalue for="0" value="Rubi" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#CA8D00" />
+        </attvalues>
+      </node>
+      <node id="Júlio Prestes" label="Júlio Prestes">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Domingos de Moraes" label="Domingos de Moraes">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Imperatriz Leopoldina" label="Imperatriz Leopoldina">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Presidente Altino" label="Presidente Altino">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Osasco" label="Osasco">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Comandante Sampaio" label="Comandante Sampaio">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Quitaúna" label="Quitaúna">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="KM 21" label="KM 21">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Carapicuíba" label="Carapicuíba">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Santa Terezinha" label="Santa Terezinha">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Antonio João" label="Antonio João">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Barueri" label="Barueri">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Jardim Belval" label="Jardim Belval">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Jardim Silveira" label="Jardim Silveira">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Jandira" label="Jandira">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Sagrado Coração" label="Sagrado Coração">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Engenheiro Cardoso" label="Engenheiro Cardoso">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Itapevi" label="Itapevi">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Ambuitá" label="Ambuitá">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Amador Bueno" label="Amador Bueno">
+        <attvalues>
+          <attvalue for="0" value="Diamante" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#97A098" />
+        </attvalues>
+      </node>
+      <node id="Ceasa" label="Ceasa">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Jaguaré" label="Jaguaré">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Cidade Universitária" label="Cidade Universitária">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Pinheiros" label="Pinheiros">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Cidade Jardim" label="Cidade Jardim">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Monções" label="Monções">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Morumbi" label="Morumbi">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Granja Julieta" label="Granja Julieta">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Santo Amaro" label="Santo Amaro">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Largo 13" label="Largo 13">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Socorro" label="Socorro">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Jurubatuba" label="Jurubatuba">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Cidade Dutra" label="Cidade Dutra">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Interlagos" label="Interlagos">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Casa Grande" label="Casa Grande">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Parelheiros" label="Parelheiros">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Colônia Paulista" label="Colônia Paulista">
+        <attvalues>
+          <attvalue for="0" value="Esmeralda" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A88E" />
+        </attvalues>
+      </node>
+      <node id="Mooca" label="Mooca">
+        <attvalues>
+          <attvalue for="0" value="Turquesa" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A9E0" />
+        </attvalues>
+      </node>
+      <node id="Ipiranga" label="Ipiranga">
+        <attvalues>
+          <attvalue for="0" value="Turquesa" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A9E0" />
+        </attvalues>
+      </node>
+      <node id="Tamanduateí" label="Tamanduateí">
+        <attvalues>
+          <attvalue for="0" value="Turquesa" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A9E0" />
+        </attvalues>
+      </node>
+      <node id="São Caetano" label="São Caetano">
+        <attvalues>
+          <attvalue for="0" value="Turquesa" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A9E0" />
+        </attvalues>
+      </node>
+      <node id="Utinga" label="Utinga">
+        <attvalues>
+          <attvalue for="0" value="Turquesa" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A9E0" />
+        </attvalues>
+      </node>
+      <node id="Prefeito Saladino" label="Prefeito Saladino">
+        <attvalues>
+          <attvalue for="0" value="Turquesa" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A9E0" />
+        </attvalues>
+      </node>
+      <node id="Santo André" label="Santo André">
+        <attvalues>
+          <attvalue for="0" value="Turquesa" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A9E0" />
+        </attvalues>
+      </node>
+      <node id="Capuava" label="Capuava">
+        <attvalues>
+          <attvalue for="0" value="Turquesa" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A9E0" />
+        </attvalues>
+      </node>
+      <node id="Mauá" label="Mauá">
+        <attvalues>
+          <attvalue for="0" value="Turquesa" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A9E0" />
+        </attvalues>
+      </node>
+      <node id="Guapituba" label="Guapituba">
+        <attvalues>
+          <attvalue for="0" value="Turquesa" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A9E0" />
+        </attvalues>
+      </node>
+      <node id="Ribeirão Pires" label="Ribeirão Pires">
+        <attvalues>
+          <attvalue for="0" value="Turquesa" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A9E0" />
+        </attvalues>
+      </node>
+      <node id="Rio Grande da Serra" label="Rio Grande da Serra">
+        <attvalues>
+          <attvalue for="0" value="Turquesa" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#00A9E0" />
+        </attvalues>
+      </node>
+      <node id="José Bonifácio" label="José Bonifácio">
+        <attvalues>
+          <attvalue for="0" value="Coral" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#F05A28" />
+        </attvalues>
+      </node>
+      <node id="Guaianases" label="Guaianases">
+        <attvalues>
+          <attvalue for="0" value="Coral" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#F05A28" />
+        </attvalues>
+      </node>
+      <node id="Ferraz de Vasconcelos" label="Ferraz de Vasconcelos">
+        <attvalues>
+          <attvalue for="0" value="Coral" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#F05A28" />
+        </attvalues>
+      </node>
+      <node id="Poá" label="Poá">
+        <attvalues>
+          <attvalue for="0" value="Coral" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#F05A28" />
+        </attvalues>
+      </node>
+      <node id="Calmon Viana" label="Calmon Viana">
+        <attvalues>
+          <attvalue for="0" value="Safira" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0072BC" />
+        </attvalues>
+      </node>
+      <node id="Suzano" label="Suzano">
+        <attvalues>
+          <attvalue for="0" value="Coral" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#F05A28" />
+        </attvalues>
+      </node>
+      <node id="Jundiapeba" label="Jundiapeba">
+        <attvalues>
+          <attvalue for="0" value="Coral" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#F05A28" />
+        </attvalues>
+      </node>
+      <node id="Braz Cubas" label="Braz Cubas">
+        <attvalues>
+          <attvalue for="0" value="Coral" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#F05A28" />
+        </attvalues>
+      </node>
+      <node id="Mogi das Cruzes" label="Mogi das Cruzes">
+        <attvalues>
+          <attvalue for="0" value="Coral" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#F05A28" />
+        </attvalues>
+      </node>
+      <node id="Estudantes" label="Estudantes">
+        <attvalues>
+          <attvalue for="0" value="Coral" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#F05A28" />
+        </attvalues>
+      </node>
+      <node id="Engenheiro Goulart" label="Engenheiro Goulart">
+        <attvalues>
+          <attvalue for="0" value="Safira" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0072BC" />
+        </attvalues>
+      </node>
+      <node id="Comendador Ermelino" label="Comendador Ermelino">
+        <attvalues>
+          <attvalue for="0" value="Safira" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0072BC" />
+        </attvalues>
+      </node>
+      <node id="São Miguel Paulista" label="São Miguel Paulista">
+        <attvalues>
+          <attvalue for="0" value="Safira" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0072BC" />
+        </attvalues>
+      </node>
+      <node id="Itaim Paulista" label="Itaim Paulista">
+        <attvalues>
+          <attvalue for="0" value="Safira" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0072BC" />
+        </attvalues>
+      </node>
+      <node id="Engenheiro Manoel Feio" label="Engenheiro Manoel Feio">
+        <attvalues>
+          <attvalue for="0" value="Safira" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0072BC" />
+        </attvalues>
+      </node>
+      <node id="Itaquaquecetuba" label="Itaquaquecetuba">
+        <attvalues>
+          <attvalue for="0" value="Safira" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0072BC" />
+        </attvalues>
+      </node>
+      <node id="Aracaré" label="Aracaré">
+        <attvalues>
+          <attvalue for="0" value="Safira" />
+          <attvalue for="2" value="Estação" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="3" value="#0072BC" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Jabaquara" target="Conceição" id="0" />
+      <edge source="Conceição" target="São Judas" id="1" />
+      <edge source="São Judas" target="Saúde" id="2" />
+      <edge source="Saúde" target="Praça da Árvore" id="3" />
+      <edge source="Praça da Árvore" target="Santa Cruz" id="4" />
+      <edge source="Santa Cruz" target="Vila Mariana" id="5" />
+      <edge source="Vila Mariana" target="Ana Rosa" id="6" />
+      <edge source="Ana Rosa" target="Paraíso" id="7" />
+      <edge source="Paraíso" target="Vergueiro" id="8" />
+      <edge source="Paraíso" target="Brigadeiro" id="9" />
+      <edge source="Vergueiro" target="São Joaquim" id="10" />
+      <edge source="São Joaquim" target="Liberdade" id="11" />
+      <edge source="Liberdade" target="Sé" id="12" />
+      <edge source="Sé" target="São Bento" id="13" />
+      <edge source="Sé" target="Brás" id="14" />
+      <edge source="Sé" target="Anhangabaú" id="15" />
+      <edge source="Sé" target="Pedro II" id="16" />
+      <edge source="São Bento" target="Luz" id="17" />
+      <edge source="Luz" target="Tiradentes" id="18" />
+      <edge source="Luz" target="Barra Funda" id="19" />
+      <edge source="Luz" target="Brás" id="20" />
+      <edge source="Tiradentes" target="Armênia" id="21" />
+      <edge source="Armênia" target="Portuguesa-Tietê" id="22" />
+      <edge source="Portuguesa-Tietê" target="Santana" id="23" />
+      <edge source="Brás" target="Pedro II" id="24" />
+      <edge source="Brás" target="Bresser" id="25" />
+      <edge source="Brás" target="Mooca" id="26" />
+      <edge source="Brás" target="Tatuapé" id="27" />
+      <edge source="Brigadeiro" target="Trianon-Masp" id="28" />
+      <edge source="Trianon-Masp" target="Consolação" id="29" />
+      <edge source="Consolação" target="Clínicas" id="30" />
+      <edge source="Barra Funda" target="Marechal Deodoro" id="31" />
+      <edge source="Barra Funda" target="Água Branca" id="32" />
+      <edge source="Barra Funda" target="Júlio Prestes" id="33" />
+      <edge source="Barra Funda" target="Lapa" id="34" />
+      <edge source="Marechal Deodoro" target="Santa Cecília" id="35" />
+      <edge source="Santa Cecília" target="República" id="36" />
+      <edge source="República" target="Anhangabaú" id="37" />
+      <edge source="Bresser" target="Belém" id="38" />
+      <edge source="Belém" target="Tatuapé" id="39" />
+      <edge source="Tatuapé" target="Carrão" id="40" />
+      <edge source="Tatuapé" target="Artur Alvim" id="41" />
+      <edge source="Tatuapé" target="Engenheiro Goulart" id="42" />
+      <edge source="Carrão" target="Penha" id="43" />
+      <edge source="Penha" target="Vila Matilde" id="44" />
+      <edge source="Vila Matilde" target="Guilhermina-Esperança" id="45" />
+      <edge source="Guilhermina-Esperança" target="Patriarca" id="46" />
+      <edge source="Patriarca" target="Artur Alvim" id="47" />
+      <edge source="Artur Alvim" target="Itaquera" id="48" />
+      <edge source="Itaquera" target="José Bonifácio" id="49" />
+      <edge source="Água Branca" target="Lapa" id="50" />
+      <edge source="Lapa" target="Piqueri" id="51" />
+      <edge source="Lapa" target="Domingos de Moraes" id="52" />
+      <edge source="Piqueri" target="Pirituba" id="53" />
+      <edge source="Pirituba" target="Vila Clarice" id="54" />
+      <edge source="Vila Clarice" target="Jaraguá" id="55" />
+      <edge source="Jaraguá" target="Perus" id="56" />
+      <edge source="Perus" target="Caieiras" id="57" />
+      <edge source="Caieiras" target="Franco da Rocha" id="58" />
+      <edge source="Franco da Rocha" target="Baltazar Fidélis" id="59" />
+      <edge source="Baltazar Fidélis" target="Francisco Morato" id="60" />
+      <edge source="Francisco Morato" target="Botujuru" id="61" />
+      <edge source="Botujuru" target="Campo Limpo Paulista" id="62" />
+      <edge source="Campo Limpo Paulista" target="Várzea Paulista" id="63" />
+      <edge source="Várzea Paulista" target="Jundiaí" id="64" />
+      <edge source="Domingos de Moraes" target="Imperatriz Leopoldina" id="65" />
+      <edge source="Imperatriz Leopoldina" target="Presidente Altino" id="66" />
+      <edge source="Presidente Altino" target="Osasco" id="67" />
+      <edge source="Osasco" target="Comandante Sampaio" id="68" />
+      <edge source="Osasco" target="Monções" id="69" />
+      <edge source="Osasco" target="Morumbi" id="70" />
+      <edge source="Comandante Sampaio" target="Quitaúna" id="71" />
+      <edge source="Quitaúna" target="KM 21" id="72" />
+      <edge source="KM 21" target="Carapicuíba" id="73" />
+      <edge source="Carapicuíba" target="Santa Terezinha" id="74" />
+      <edge source="Santa Terezinha" target="Antonio João" id="75" />
+      <edge source="Antonio João" target="Barueri" id="76" />
+      <edge source="Barueri" target="Jardim Belval" id="77" />
+      <edge source="Jardim Belval" target="Jardim Silveira" id="78" />
+      <edge source="Jardim Silveira" target="Jandira" id="79" />
+      <edge source="Jandira" target="Sagrado Coração" id="80" />
+      <edge source="Sagrado Coração" target="Engenheiro Cardoso" id="81" />
+      <edge source="Engenheiro Cardoso" target="Itapevi" id="82" />
+      <edge source="Itapevi" target="Ambuitá" id="83" />
+      <edge source="Ambuitá" target="Amador Bueno" id="84" />
+      <edge source="Ceasa" target="Jaguaré" id="85" />
+      <edge source="Jaguaré" target="Cidade Universitária" id="86" />
+      <edge source="Cidade Universitária" target="Pinheiros" id="87" />
+      <edge source="Pinheiros" target="Cidade Jardim" id="88" />
+      <edge source="Cidade Jardim" target="Monções" id="89" />
+      <edge source="Morumbi" target="Granja Julieta" id="90" />
+      <edge source="Granja Julieta" target="Santo Amaro" id="91" />
+      <edge source="Santo Amaro" target="Largo 13" id="92" />
+      <edge source="Largo 13" target="Socorro" id="93" />
+      <edge source="Socorro" target="Jurubatuba" id="94" />
+      <edge source="Jurubatuba" target="Cidade Dutra" id="95" />
+      <edge source="Cidade Dutra" target="Interlagos" id="96" />
+      <edge source="Interlagos" target="Casa Grande" id="97" />
+      <edge source="Casa Grande" target="Parelheiros" id="98" />
+      <edge source="Parelheiros" target="Colônia Paulista" id="99" />
+      <edge source="Mooca" target="Ipiranga" id="100" />
+      <edge source="Ipiranga" target="Tamanduateí" id="101" />
+      <edge source="Tamanduateí" target="São Caetano" id="102" />
+      <edge source="São Caetano" target="Utinga" id="103" />
+      <edge source="Utinga" target="Prefeito Saladino" id="104" />
+      <edge source="Prefeito Saladino" target="Santo André" id="105" />
+      <edge source="Santo André" target="Capuava" id="106" />
+      <edge source="Capuava" target="Mauá" id="107" />
+      <edge source="Mauá" target="Guapituba" id="108" />
+      <edge source="Guapituba" target="Ribeirão Pires" id="109" />
+      <edge source="Ribeirão Pires" target="Rio Grande da Serra" id="110" />
+      <edge source="José Bonifácio" target="Guaianases" id="111" />
+      <edge source="Guaianases" target="Ferraz de Vasconcelos" id="112" />
+      <edge source="Ferraz de Vasconcelos" target="Poá" id="113" />
+      <edge source="Poá" target="Calmon Viana" id="114" />
+      <edge source="Calmon Viana" target="Suzano" id="115" />
+      <edge source="Calmon Viana" target="Aracaré" id="116" />
+      <edge source="Suzano" target="Jundiapeba" id="117" />
+      <edge source="Jundiapeba" target="Braz Cubas" id="118" />
+      <edge source="Braz Cubas" target="Mogi das Cruzes" id="119" />
+      <edge source="Mogi das Cruzes" target="Estudantes" id="120" />
+      <edge source="Engenheiro Goulart" target="Comendador Ermelino" id="121" />
+      <edge source="Comendador Ermelino" target="São Miguel Paulista" id="122" />
+      <edge source="São Miguel Paulista" target="Itaim Paulista" id="123" />
+      <edge source="Itaim Paulista" target="Engenheiro Manoel Feio" id="124" />
+      <edge source="Engenheiro Manoel Feio" target="Itaquaquecetuba" id="125" />
+      <edge source="Itaquaquecetuba" target="Aracaré" id="126" />
+    </edges>
+  </graph>
+</gexf>
