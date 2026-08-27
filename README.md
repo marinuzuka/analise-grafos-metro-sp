@@ -59,8 +59,7 @@ O Python e a biblioteca NetworkX foram utilizados na construção e modelagem do
 
 ## Minha contribuição
 
-Este projeto foi desenvolvido em equipe. Minha participação envolveu a elaboração do projeto e a modelagem da rede em grafos, incluindo a construção dos grafos referentes aos períodos de **1974, 1979 e 1994–1996** e sua exportação para o Gephi.
-Também participei parcialmente da validação dos dados utilizados e da escrita e formatação do artigo.
+Este projeto foi desenvolvido em equipe no contexto acadêmico da UFABC. Minha contribuição esteve principalmente na modelagem e construção dos grafos referentes aos períodos de 1974, 1979 e 1996, utilizando Python e a biblioteca NetworkX. Também participei da exportação dos grafos para o formato GEXF, posteriormente utilizados no Gephi para visualização e análise. O notebook disponível neste repositório corresponde à minha parte da implementação, enquanto os arquivos GEXF apresentam os grafos construídos para os períodos analisados.
 
 ## Arquivos GEXF
 
