@@ -24,6 +24,7 @@ A rede foi representada como um grafo simples, não direcionado e não ponderado
 Os períodos foram selecionados a partir de marcos históricos que provocaram mudanças relevantes na configuração da rede.
 
 | Período | Marco histórico |
+|---|---|
 | **1974** | Início das operações comerciais do Metrô |
 | **1979** | Primeira integração entre linhas |
 | **1994–1996** | Incorporação das linhas da CBTU e FEPASA à CPTM |
